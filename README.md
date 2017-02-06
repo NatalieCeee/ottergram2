@@ -1,2 +1,2 @@
 # ottergram
-homework1
+homework2
