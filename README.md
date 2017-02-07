@@ -1,2 +1,0 @@
-# ottergram
-homework2
